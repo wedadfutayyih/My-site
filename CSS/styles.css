@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+}
+.top{
+  position: relative;
+  padding-top: 100px;
+}
+h1 {
+  font-size: 40px;
+  font-family: 'Dancing Script', cursive;
+}
+p {
+  font-family: 'Yusei Magic', sans-serif;
+}
+h2 {
+  font-family: 'Playfair Display SC', serif;
+}
+ span {
+   text-decoration: underline;
+ }
+ .bottom-cloud {
+   position: relative;
+   right: 100px;
+   bottom:400px;
+ }
+.top-cloud {
+  position: relative;
+  left: 200px;
+  bottom: 20px;
+}
+.mountain {
+  align-items: center;
+  margin-right: 100px;
+}
+.mountain {
+  width: 500px;
+  height: auto;
+}
